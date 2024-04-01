@@ -68,3 +68,5 @@ export default defineConfig({
     port: 8080
   }
 });
+To run it locally http://localhost:8080/
+Docker hub : https://hub.docker.com/repositories/ramona12
